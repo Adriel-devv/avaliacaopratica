@@ -2,4 +2,7 @@
 *.o
 
 # Ada Library Information
-*.ali
+*.ali 
+*.db
+*.sql 
+*.rar
